@@ -21,4 +21,3 @@
 - [Instagram](https://www.instagram.com/ti.ki84/) 📸
 - [Site perso + Portfolio](https://thibault-kine.students-laplateforme.io/) 💁‍♂️
 - [Adresse Mail](mailto:thibaultkinecontact@gmail.com) 💌
-- Téléphone: 07 81 64 67 00 📞
