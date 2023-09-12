@@ -12,7 +12,7 @@
 - Langages & outils web back-end ⚙️ (PHP, MySQL, Symfony)
 - Langages & outils logiciel 🖥️ (Java, Python)
 - Programmation de jeu-vidéo 🎮 (C# avec Unity)
-- Je parle **français** (langue maternelle) et **anglais** (niveau intermédiaire)
+- Je parle **français** 🇫🇷 (langue maternelle) et **anglais** 🇬🇧 (niveau intermédiaire)
 
 ## **Liens utiles** 🌐
 
