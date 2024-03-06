@@ -8,11 +8,11 @@
 
 ## **Mes compétences** 🧠
 
-- Langages & outils web front-end 🎨 (HTML, CSS, JS, React, VueJS)
-- Langages & outils web back-end ⚙️ (PHP, MySQL, Symfony, NodeJS)
+- Langages & outils web front-end 🎨 (HTML, CSS, JS, React/React Native, VueJS, Flutter)
+- Langages & outils web back-end ⚙️ (PHP, MySQL, Symfony, NodeJS, Django)
 - Langages & outils logiciel 🖥️ (Java, Python, C)
 - Programmation de jeu-vidéo 🎮 (C# avec Unity)
-- Je parle **français** 🇫🇷 (langue maternelle) et **anglais** 🇬🇧 (niveau intermédiaire)
+- Je parle **français** (langue maternelle) et **anglais** (niveau intermédiaire)
 
 ## **Liens utiles** 🌐
 
