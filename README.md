@@ -10,7 +10,7 @@
 
 - Langages & outils web front-end 🎨 (HTML, CSS, JS, React/React Native, VueJS, Flutter)
 - Langages & outils web back-end ⚙️ (PHP, MySQL, Symfony, NodeJS, Django)
-- Langages & outils logiciel 🖥️ (Java, Python, C)
+- Langages & outils logiciel 🖥️ (Java, Python, famille C)
 - Programmation de jeu-vidéo 🎮 (C# avec Unity, Gamemaker)
 - Je parle **français** (langue maternelle) et **anglais** (niveau intermédiaire)
 
