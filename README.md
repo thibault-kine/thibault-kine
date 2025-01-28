@@ -21,3 +21,6 @@
 - [Instagram](https://www.instagram.com/ti.ki84/) 📸
 - [Site perso + Portfolio](https://thibault-kine.students-laplateforme.io/) 💁‍♂️
 - [Adresse Mail](mailto:thibaultkinecontact@gmail.com) 💌
+
+![thibault-kine's Stats](https://github-readme-stats.vercel.app/api?username=thibault-kine&theme=dark&show_icons=true&hide_border=true&count_private=false)
+![thibault-kine's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thibault-kine&theme=dark&show_icons=true&hide_border=true&layout=compact)
